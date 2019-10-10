@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package persistencia;
 
 import java.io.FileWriter;
@@ -11,10 +7,7 @@ import java.io.PrintWriter;
 import negocio.Cliente;
 import negocio.DAOClienteArquivo;
 
-/**
- *
- * @author 12205008
- */
+
 public class ClienteArquivo implements DAOClienteArquivo{    
     private static FileWriter arqEntrada, arqSaida;
     private static  PrintWriter gravarArqEntrada, gravarArqSaida;

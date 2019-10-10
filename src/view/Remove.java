@@ -2,10 +2,7 @@ package view;
 
 import controller.ControleAcesso;
 
-/**
- *
- * @author Yasser
- */
+
 public class Remove extends javax.swing.JFrame {
     private static ControleAcesso loja;
     

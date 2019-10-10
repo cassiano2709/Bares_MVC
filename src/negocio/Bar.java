@@ -1,16 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package negocio;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author 12205008
- */
+
 public class Bar {
     private ArrayList<Cliente> lista;
     private String nome;

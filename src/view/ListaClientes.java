@@ -1,18 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package view;
 
 import java.util.ArrayList;
 import javax.swing.DefaultListModel;
 
 
-/**
- *
- * @author Yasser
- */
+
 public class ListaClientes extends javax.swing.JFrame {
     private static ArrayList<String> lista, listaRecebida;
     private static DefaultListModel<String> model;
